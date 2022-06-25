@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Hydeout (Hi Tobias!!)
+title: PTSD SCREENER TRANSLATIONS
 excerpt_separator:  <!--more-->
 ---
 
